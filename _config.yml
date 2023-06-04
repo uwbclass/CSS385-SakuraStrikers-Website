@@ -17,7 +17,7 @@ slogan: 'A 2D Fighting Game made by Team JOGM'
 description: 'Sakura Strikers is a 2D Fighting Game made by Team JOGM for CSS 385, Spring 2023. University of Washington - Bothell.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.<br />Edited with &#128170; by Team JOGM, <a href="https://www.uwb.edu/" target="_blank">University of Washington - Bothell.</a></p>'
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.<br />Edited with &#128170; by Team JOGM, <a href="https://www.uwb.edu/" target="_blank">University of Washington - Bothell. </a></p>'
 
 # Main author of the website
 # See > authors.yml
