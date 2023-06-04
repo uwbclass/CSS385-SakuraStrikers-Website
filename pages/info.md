@@ -8,7 +8,8 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-*Team JOGM* consists of [Jaimi Chang][1], [Oliver Jeremiah Fernandez][2], [Minh Kiep Nguyen Jr][3], and [Gabriel Pitzel][4] while Spring 2023, CSS 385 is taught by [Yusuf Pisan][5] at the [University of Washington - Bothell][6].
+*Team JOGM* consists of [Jaimi Chang][1], [Oliver Jeremiah Fernandez][2], [Minh Kiep Nguyen Jr][3], and [Gabriel Pitzel][4].
+Spring 2023, CSS 385 is taught by [Yusuf Pisan][5] at the [University of Washington - Bothell][6].
 
  [1]: https://github.com/JaiChong
  [2]: https://github.com/ojfernandez
