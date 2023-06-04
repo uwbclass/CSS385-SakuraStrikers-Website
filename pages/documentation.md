@@ -19,6 +19,6 @@ Here is where you can find everything related to the development of <strong>Saku
 * 
 
  [1]: https://github.com/IProxyPI/CSS385_Project 
- [2]: 
+ [2]: #
  [3]: https://docs.google.com/presentation/d/1dxOvWi6WGHnsge8p_u_ET9JdzBppJqGUVeTpVXEPLU0/edit?usp=sharing
  [4]: https://docs.google.com/presentation/d/1STsbilEgasAl7OUPak3pFoIfiHQ97fQdZT7bQnDCMxM/edit?usp=sharing
