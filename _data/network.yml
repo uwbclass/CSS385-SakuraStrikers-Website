@@ -1,21 +1,21 @@
-- menu_name: "Dankeschön"
+- menu_name: "Team JOGM:"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- name: "Jaimi Chong"
+  url:
+  class:
+  title: "Jaimi Chong"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+- name: "Oliver Jeremiah Fernandez"
+  url:
+  class:
+  title: "Oliver Jeremiah Fernandez"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: "Minh Kiep Nguyen Jr"
+  url:
+  class:
+  title: "Minh Kiep Nguyen Jr"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+- name: "Gabriel Pitzel"
+  url:
+  class:
+  title: "Gabriel Pitzel"
