@@ -20,15 +20,16 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 ### Deliverables  {#deliverables}
 
-* [Source code][1]
-* [Development logs][2]
-* [Postmortem presentation][3]
-* [Game presentation][4]
+* [Game source code][1]
+* [Website source code][2]
+* [Development logs][3]
+* [Postmortem presentation][4]
+* [Game presentation][5]
 
 ### References {#references}
 
-* [Menu buttons by Nectanebo][5]
-* [Buttons by greenpixels_][6]
+* [Menu buttons by Nectanebo][6]
+* [Buttons by greenpixels_][7]
    
 ### Credits {#credits}
    
@@ -52,8 +53,9 @@ Overall it was a great experience. We believe everyone did their best given the 
 </div><!-- /.row -->
 
  [1]: https://github.com/IProxyPI/CSS385_Project 
- [2]: #
- [3]: https://docs.google.com/presentation/d/1dxOvWi6WGHnsge8p_u_ET9JdzBppJqGUVeTpVXEPLU0/edit?usp=sharing
- [4]: https://docs.google.com/presentation/d/1STsbilEgasAl7OUPak3pFoIfiHQ97fQdZT7bQnDCMxM/edit?usp=sharing
- [5]: https://nectanebo.itch.io/menu-buttons
- [6]: https://greenpixels.itch.io/pixel-art-asset-3 
+ [2]: https://github.com/uwbclass/CSS385-SakuraStrikers-Website/
+ [3]: #
+ [4]: https://docs.google.com/presentation/d/1dxOvWi6WGHnsge8p_u_ET9JdzBppJqGUVeTpVXEPLU0/edit?usp=sharing
+ [5]: https://docs.google.com/presentation/d/1STsbilEgasAl7OUPak3pFoIfiHQ97fQdZT7bQnDCMxM/edit?usp=sharing
+ [6]: https://nectanebo.itch.io/menu-buttons
+ [7]: https://greenpixels.itch.io/pixel-art-asset-3 
