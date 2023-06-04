@@ -21,16 +21,15 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: ojfernandez
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/uwbclass/CSS385-SakuraStrikers-Website/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +37,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://github.com/uwbclass/CSS385-SakuraStrikers-Website/images/'
 
 
 # Logo size is 600x80 pixels
@@ -177,9 +176,9 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale                            : 'en_EN'
-og_type                              : 'website'
+#og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+#og_locale                            : 'en_EN'
+#og_type                              : 'website'
 
 
 #      _____            _       __   __  ___         ___
@@ -191,9 +190,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+#socialmedia:
+#    twitter   : phlow
+#    facebook  : phlow.media
 
 
 #        ____  _
@@ -215,9 +214,9 @@ socialmedia:
 #   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
 #
 
-sass:
-    sass_dir : _sass
-    style    : :compressed
+#sass:
+#    sass_dir : _sass
+#    style    : :compressed
 
 
 #       ___                __      __  _
