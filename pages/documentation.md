@@ -5,7 +5,7 @@ subheadline: "What is inside Sakura Strikers?"
 teaser: "Here, you can find everything related to the development of <strong>Sakura Strikers</strong>!"
 permalink: "/documentation/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "header-documentation.png"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
