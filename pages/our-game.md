@@ -25,18 +25,21 @@ permalink           : "/our-game/"
 
 Inspired by games like [FOOTSIES][1], [Skullgirls 2nd Encore][2], and [Guilty Gear Strive][3]!
 
-<strong>Sakura Strikers features:</strong>
+### Sakura Strikers features: 
 * 2D Fighting Game DNA!
 * 2 Player Action!
 * 2 Available Characters!
 
+### Screenshots:
+
 {% include gallery %}
 
 
-<strong>Watch the trailer!</strong>
+### Watch the trailer!
 <div class="flex-video">
    <iframe width="1280" height="720" src="//www.youtube.com/embed/cez03VGm_AA" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 <a class="radius button small" href="https://iproxypi.github.io/CSS385_Project/WebGLBuild4/" target="blank_">Click here to play Sakura Strikers ></a>
 
