@@ -17,7 +17,7 @@ slogan: 'A 2D Fighting Game made by Team JOGM'
 description: 'Sakura Strikers is a 2D Fighting Game made by Team JOGM for CSS 385, Spring 2023. University of Washington - Bothell.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>. Edited with &#128170; by Team JOGM, <a href="https://www.uwb.edu/" target="_blank">University of Washington - Bothell</a></p>'
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>. Edited with &#128170; by Team JOGM, <a href="https://www.uwb.edu/" target="_blank">University of Washington - Bothell.</a></p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,7 +25,7 @@ author: ojfernandez
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website'
+url: 'https://uwbclass.github.io/'
 baseurl: '/CSS385-SakuraStrikers-Website/'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ baseurl: '/CSS385-SakuraStrikers-Website/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/uwbclass/CSS385-SakuraStrikers-Website/tree/gh-pages/images/'
+urlimg: 'https://github.com/uwbclass/CSS385-SakuraStrikers-Website/images/'
 
 
 # Logo size is 600x80 pixels
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: ojfernandez     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: ojfernandez     # Default author for posts
 
 
 
