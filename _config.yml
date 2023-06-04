@@ -38,7 +38,7 @@ baseurl: '/CSS385-SakuraStrikers-Website'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.io/CSS385-SakuraStrikers-Website/images/'
+urlimg: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website/images/'
 
 
 # Logo size is 600x80 pixels
