@@ -1,21 +1,16 @@
-- title: Start
+- title: "Start"
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: "Our Game"
+  url: "/our-game/"
   side: left
 
-- title: Documentation
+- title: "Documentation"
   url: "/documentation/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
     
-- title: About
+- title: "About"
   url: "/info/"
   side: left
 
