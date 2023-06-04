@@ -17,7 +17,7 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
-
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 ### Deliverables  {#deliverables}
 
 * [Source code][1]
