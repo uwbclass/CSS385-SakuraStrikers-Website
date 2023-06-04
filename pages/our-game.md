@@ -16,7 +16,7 @@ Inspired by games like [FOOTSIES][1], [Skullgirls 2nd Encore][2], and [Guilty Ge
 * 2 Player Action!
 * 2 Available Characters!
 
-<a class="radius button small" href="Insert game url here">Click here to play Sakura Strikers ></a>
+<a class="radius button small" href="https://iproxypi.github.io/CSS385_Project/WebGLBuild4/" target="blank_">Click here to play Sakura Strikers ></a>
 
 [1]: https://store.steampowered.com/app/1344740/FOOTSIES_Rollback_Edition/
 [2]: https://store.steampowered.com/app/245170/Skullgirls_2nd_Encore/
