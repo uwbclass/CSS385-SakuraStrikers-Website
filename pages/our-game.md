@@ -5,7 +5,7 @@ title               : "Sakura Strikers"
 subheadline         : "A 2D Fighting Game by Team JOGM"
 teaser              : "Team JOGM's first game for CSS 385, Spring 2023."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "header-game.png"
 image:
    thumb: "screenshot-1-thumb.png"
 gallery:
