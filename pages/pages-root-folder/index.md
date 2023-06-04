@@ -10,16 +10,17 @@ header:
 widget1:
   title: "About Our Game"
   url: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website/our-game/'
-  image: widget-1-302x182.jpg
+  image: widget-1-302x182.png
   text: 'Check out screenshots and the trailer of our game, as well as where to play it!'
 widget2:
   title: "Documentation & Deliverables"
   url: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website/documentation/'
+  image: widget-2-302x182.png
   text: 'Check under the hood to see how everything runs and what we created for CSS 385!'
 widget3:
   title: "About Team JOGM"
   url: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website/info/'
-  image: widget-github-303x182.jpg
+  image: widget-github-303x182.png
   text: 'Who, what, where, why, and how is a JOGM (yog-em)? Meet the team and course!'
 #
 # Use the call for action to show a button on the frontpage
