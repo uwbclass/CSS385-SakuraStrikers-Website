@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "About Team JOGM"
   url: 'https://uwbclass.github.io/CSS385-SakuraStrikers-Website/info/'
-  image: widget-github-303x182.png
+  image: widget-3-303x182.png
   text: 'Who, what, where, why, and how is a JOGM (yog-em)? Meet the team and course!'
 #
 # Use the call for action to show a button on the frontpage
