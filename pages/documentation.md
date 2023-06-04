@@ -7,17 +7,7 @@ permalink: "/documentation/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
 ### Deliverables  {#deliverables}
 
 * [Source code][1]
@@ -35,10 +25,7 @@ header:
 * Jaimi Chong - Main RPS systems, frame data, and hitboxes
 * Oliver Jeremiah Fernandez - Music, sprites, and website
 * Minh Nguyen - Menus and character selection
-* Gabriel Pitzel - Background art and SFX
-   
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+* Gabriel Pitzel - Background art and VFX
 
  [1]: https://github.com/IProxyPI/CSS385_Project 
  [2]: #
