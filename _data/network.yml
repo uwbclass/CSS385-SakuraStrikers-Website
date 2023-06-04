@@ -1,21 +1,21 @@
 - menu_name: "Team JOGM:"
 
 - name: "Jaimi Chong"
-  url:
-  class:
+  url: "https://github.com/JaiChong"
+  class: "github-link"
   title: "Jaimi Chong"
 
 - name: "Oliver Jeremiah Fernandez"
-  url:
-  class:
+  url: "https://github.com/ojfernandez"
+  class: "github-link"
   title: "Oliver Jeremiah Fernandez"
 
 - name: "Minh Kiep Nguyen Jr"
-  url:
-  class:
+  url: "https://github.com/MinNguTru"
+  class: "github-link"
   title: "Minh Kiep Nguyen Jr"
 
 - name: "Gabriel Pitzel"
-  url:
-  class:
+  url: "https://github.com/IProxyPI"
+  class: "github-link"
   title: "Gabriel Pitzel"
