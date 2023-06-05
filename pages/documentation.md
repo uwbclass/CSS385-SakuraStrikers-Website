@@ -25,11 +25,12 @@ header:
 * [Development logs][3]
 * [Postmortem presentation][4]
 * [Game presentation][5]
+* [Final deliverables][6]
 
 ### References {#references}
 
-* [Menu buttons by Nectanebo][6]
-* [Buttons by greenpixels_][7]
+* [Menu buttons by Nectanebo][7]
+* [Buttons by greenpixels_][8]
    
 ### Credits {#credits}
    
@@ -56,8 +57,9 @@ Overall it was a great experience. We believe everyone did their best given the 
 
  [1]: https://github.com/IProxyPI/CSS385_Project 
  [2]: https://github.com/uwbclass/CSS385-SakuraStrikers-Website/
- [3]: #
+ [3]: https://docs.google.com/spreadsheets/d/1VP6ugkVAaKGMi5sMamsna519TUsfQ1fTo-n3H0tZcdE/edit?usp=sharing
  [4]: https://docs.google.com/presentation/d/1dxOvWi6WGHnsge8p_u_ET9JdzBppJqGUVeTpVXEPLU0/edit?usp=sharing
  [5]: https://docs.google.com/presentation/d/1STsbilEgasAl7OUPak3pFoIfiHQ97fQdZT7bQnDCMxM/edit?usp=sharing
- [6]: https://nectanebo.itch.io/menu-buttons
- [7]: https://greenpixels.itch.io/pixel-art-asset-3 
+ [6]: https://docs.google.com/document/d/17HzTrFrNzZc4GQX8P38au241rD3D1c9j3MOkJpNyc0o/edit?usp=sharing
+ [7]: https://nectanebo.itch.io/menu-buttons
+ [8]: https://greenpixels.itch.io/pixel-art-asset-3 
