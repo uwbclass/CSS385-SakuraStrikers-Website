@@ -39,7 +39,7 @@ Inspired by games like [FOOTSIES][1], [Skullgirls 2nd Encore][2], and [Guilty Ge
    <iframe width="1280" height="720" src="//www.youtube.com/embed/nCPU9tvOV6U" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<a class="radius button small" href="https://iproxypi.github.io/CSS385_Project/WebGLBuild6/" target="blank_">Click here to play Sakura Strikers ></a>
+<a class="radius button small" href="https://iproxypi.github.io/CSS385_Project/WebGLBuild7/" target="blank_">Click here to play Sakura Strikers ></a>
 
 [1]: https://store.steampowered.com/app/1344740/FOOTSIES_Rollback_Edition/
 [2]: https://store.steampowered.com/app/245170/Skullgirls_2nd_Encore/
