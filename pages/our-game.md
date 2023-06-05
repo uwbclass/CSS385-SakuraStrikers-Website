@@ -37,7 +37,7 @@ Inspired by games like [FOOTSIES][1], [Skullgirls 2nd Encore][2], and [Guilty Ge
 
 ### Watch the trailer!
 <div class="flex-video">
-   <iframe width="1280" height="720" src="//www.youtube.com/embed/cez03VGm_AA" frameborder="0" allowfullscreen></iframe>
+   <iframe width="1280" height="720" src="//www.youtube.com/embed/CPU9tvOV6U" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
