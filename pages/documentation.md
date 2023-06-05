@@ -53,7 +53,7 @@ Overall it was a great experience. We believe everyone did their best given the 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
-<a class="radius button small" href="https://iproxypi.github.io/CSS385_Project/WebGLBuild6/" target="blank_">Click here to play Sakura Strikers ></a>
+<a class="radius button small" href="https://iproxypi.github.io/CSS385_Project/WebGLBuild7/" target="blank_">Click here to play Sakura Strikers ></a>
 
  [1]: https://github.com/IProxyPI/CSS385_Project 
  [2]: https://github.com/uwbclass/CSS385-SakuraStrikers-Website/
