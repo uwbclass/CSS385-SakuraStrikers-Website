@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://iproxypi.github.io/CSS385_Project/WebGLBuild6/
+  url: https://iproxypi.github.io/CSS385_Project/WebGLBuild7/
   text: Play Sakura Strikers here ›
   style: alert
 permalink: /index.html
